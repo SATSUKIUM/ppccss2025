@@ -2,6 +2,7 @@
     "files.associations": {
         "test1.C": "cpp",
         "draw.C": "cpp",
-        "drawHistogram.C": "cpp"
+        "drawHistogram.C": "cpp",
+        "drawHistogram2.C": "cpp"
     }
 }
