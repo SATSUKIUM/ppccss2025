@@ -9,6 +9,7 @@
         "fitGauss2.C": "cpp",
         "myFunc.C": "cpp",
         "makeTree1.C": "cpp",
-        "makeTree2.C": "cpp"
+        "makeTree2.C": "cpp",
+        "readNtuple.C": "cpp"
     }
 }
