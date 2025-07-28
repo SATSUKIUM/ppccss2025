@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "test1.C": "cpp",
+        "draw.C": "cpp",
+        "drawHistogram.C": "cpp"
+    }
+}
