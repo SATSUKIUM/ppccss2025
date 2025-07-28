@@ -3,6 +3,7 @@
         "test1.C": "cpp",
         "draw.C": "cpp",
         "drawHistogram.C": "cpp",
-        "drawHistogram2.C": "cpp"
+        "drawHistogram2.C": "cpp",
+        "fitGauss.C": "cpp"
     }
 }
