@@ -54,7 +54,7 @@ void makeTree2(){
     TFile *file = TFile::Open("tree.root","RECREATE");
     TTree *tree = new TTree("tree","tree");
 
-    TString input = "macro/data/particles.txt";
+    TString input = "data/particles.txt";
     tree->ReadFile(input.Data(), "ntrack/I:momentum/D:position/D:charge/I");
 
     tree->Write();
