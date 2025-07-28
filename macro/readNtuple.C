@@ -78,6 +78,7 @@ TH1F  *hist = new TH1F("lep_pt", "p_{T} of muons", 100, 0, 100000);
       if (lep_type[lep1] != 13) continue;
  
       hist->Fill(lep_pt[lep1]);
+      std::cout << lep_pt[lep1] << std::endl;
     }
   }
  
