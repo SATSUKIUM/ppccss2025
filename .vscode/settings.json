@@ -5,6 +5,8 @@
         "drawHistogram.C": "cpp",
         "drawHistogram2.C": "cpp",
         "fitGauss.C": "cpp",
-        "fitGauss1.C": "cpp"
+        "fitGauss1.C": "cpp",
+        "fitGauss2.C": "cpp",
+        "myFunc.C": "cpp"
     }
 }
