@@ -7,6 +7,7 @@
         "fitGauss.C": "cpp",
         "fitGauss1.C": "cpp",
         "fitGauss2.C": "cpp",
-        "myFunc.C": "cpp"
+        "myFunc.C": "cpp",
+        "makeTree1.C": "cpp"
     }
 }
