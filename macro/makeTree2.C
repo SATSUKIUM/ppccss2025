@@ -57,6 +57,6 @@ void makeTree2(){
     TString input = "macro/data/particles.txt";
     tree->ReadFile(input.Data(), "ntrack/I:momentum/D:position/D:charge/I");
 
-    tree-Write();
+    tree->Write();
     file->Close();
 }
