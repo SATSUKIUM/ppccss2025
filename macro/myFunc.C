@@ -58,7 +58,7 @@ double form6(double *x, double *par)
     return 0;
 }
  
-void myfunc()
+void myFunc()
 {
    //第5引数でこの関数のパラメータの数を指定しておく
   TF1 *func6 = new TF1("func6",form6,0,10,5);
