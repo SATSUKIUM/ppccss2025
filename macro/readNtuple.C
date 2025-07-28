@@ -47,7 +47,7 @@
 void readNtuple(){
 TH1F  *hist = new TH1F("lep_pt", "p_{T} of muons", 100, 0, 100000);
  
-  TFile *file = TFile::Open("../mcsample.root", "READ");
+  TFile *file = TFile::Open("./mcsample.root", "READ");
   TTree *tree = dynamic_cast<TTree*>(file->Get("mini"));
  
   Int_t lep_max = tree->GetMaximum("lep_n");
